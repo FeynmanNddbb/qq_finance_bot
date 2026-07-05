@@ -1,0 +1,12 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.2.1
+schedule==1.2.1
+APScheduler==3.10.4
+selenium==4.20.0
+python-dotenv==1.0.1
+
+# ===== 大模型 SDK：按需安装，只用哪个就装哪个即可 =====
+zhipuai==2.1.5.20250825
+openai==1.14.3
+anthropic==0.49.0
