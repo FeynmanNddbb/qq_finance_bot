@@ -1,5 +1,5 @@
 """
-@Project : qq_news_bot
+@Project : QQ 财经机器人
 @File : fetcher.py
 @Author : feynman
 @Time : 2026/3/24 下午4:40

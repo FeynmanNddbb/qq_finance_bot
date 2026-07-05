@@ -32,7 +32,7 @@ schedule.every().day.at("22:00").do(main_job)
 
 # ===== 启动 =====
 if __name__ == "__main__":
-    print("机器人已启动...")
+    print("QQ 财经机器人已启动...")
 
     while True:
         schedule.run_pending()

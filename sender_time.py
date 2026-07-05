@@ -183,7 +183,7 @@ def setup_scheduler():
 
 # ====================== 主程序 ======================
 if __name__ == "__main__":
-    logger.info("=== QQ 新闻机器人启动 ===")
+    logger.info("=== QQ 财经机器人启动 ===")
     logger.info("当前时间: %s", datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
     
     # 启动定时任务
